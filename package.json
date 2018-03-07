@@ -1,0 +1,13 @@
+{
+  "name": "armada",
+  "version": "1.0.0",
+  "description": "Get node informations from web",
+  "main": "index.js",
+  "author": "Cyrille Colin <cyrille.colin@eskan.fr>",
+  "repository": "https://github.com/eskan/armada.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "json-pretty-html": "^1.1.2"
+  }
+}
